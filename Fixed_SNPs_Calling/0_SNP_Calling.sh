@@ -1,0 +1,17 @@
+sickle pe -l 35 -f Sample_R1.fastq.gz -r Sample_R2.fastq.gz -t sanger -o Sample_tr_1.fq -p Sample_tr_2.fq -s Sample_tr_S.fq; 
+bwa aln -R 1 ~/template/bwa/tb.ancestor.fasta Sample_tr_1.fq > Sample_R1.sai; 
+bwa aln -R 1 ~/template/bwa/tb.ancestor.fasta Sample_tr_2.fq > Sample_R2.sai;
+bwa aln -R 1 ~/template/bwa/tb.ancestor.fasta Sample_tr_S.fq > Sample_S.sai;
+bwa sampe -a 1000 -n 1 -N 1 ~/template/bwa/tb.ancestor.fasta Sample_R1.sai Sample_R2.sai Sample_tr_1.fq Sample_tr_2.fq> Sample.paired.sam;
+bwa samse -n 1 ~/template/bwa/tb.ancestor.fasta Sample_S.sai Sample_tr_S.fq > Sample.single.sam;
+samtools view -bhSt ~/template/bwa/tb.ancestor.fasta.fai Sample.paired.sam -o Sample.paired.bam;samtools view -bhSt ~/template/bwa/tb.ancestor.fasta.fai Sample.single.sam -o Sample.single.bam; 
+samtools merge Sample.merge.bam Sample.paired.bam Sample.single.bam;
+samtools sort Sample.merge.bam -o Sample.sort.bam; 
+samtools index Sample.sort.bam;samtools mpileup -q 30 -Q 20 -ABOf ~/template/bwa/tb.ancestor.fasta Sample.sort.bam > Sample.pileup; 
+java -jar ~/software/VarScan.v2.3.9.jar mpileup2snp Sample.pileup --min-coverage 3 --min-reads2 2 --min-avg-qual 20 --min-var-freq 0.01 --min-freq-for-hom 0.9 --p-value 99e-02 --strand-filter 1 > Sample.varscan; 
+java -jar ~/software/VarScan.v2.3.9.jar mpileup2cns Sample.pileup --min-coverage 3 --min-avg-qual 20 --min-var-freq 0.75 --min-reads2 2 --strand-filter 1 > Sample.cns;
+perl ~/script/PPE_PE_INS_filt.pl ~/script/PPE_INS_loci.list Sample.varscan > Sample.ppe;
+perl ~/script/format_trans.pl Sample.ppe > Sample.for;
+perl ~/script/fix_extract.pl Sample.for > Sample.fix;
+perl ~/script/unfix_pileup_match.pl Sample.for Sample.pileup >Sample.forup; 
+cut -f2-4 Sample.fix > Sample.snp;
