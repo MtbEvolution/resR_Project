@@ -1,0 +1,12 @@
+NC_000962.3	RefSeq	rRNA	1471846	1473382	.	+	.	ID=rna-Rvnr01;Parent=gene-Rvnr01;Dbxref=GeneID:2700429;Note=rrs%2C 16s rRNA gene (alternate gene name: rrnS).;gbkey=rRNA;gene=rrs;locus_tag=Rvnr01;product=16S ribosomal RNA
+NC_000962.3	RefSeq	rRNA	1473658	1476795	.	+	.	ID=rna-Rvnr02;Parent=gene-Rvnr02;Dbxref=GeneID:2700466;Note=rrl%2C 23S rRNA gene (approximate coordinates).;gbkey=rRNA;gene=rrl;locus_tag=Rvnr02;product=23S ribosomal RNA
+NC_000962.3	RefSeq	rRNA	1476899	1477013	.	+	.	ID=rna-Rvnr03;Parent=gene-Rvnr03;Dbxref=GeneID:2700459;Note=rrf%2C 5S rRNA gene. Identical to Em_ba:MT5SRR%2C D10035 M.tuberculosis 5S rRNA%2C len: 116.;gbkey=rRNA;gene=rrf;locus_tag=Rvnr03;product=5S ribosomal RNA
+NC_000962.3	RefSeq	rRNA	1471846	1473382	.	+	.	ID=rna-Rvnr01;Parent=gene-Rvnr01;Dbxref=GeneID:2700429;Note=rrs%2C 16s rRNA gene (alternate gene name: rrnS).;gbkey=rRNA;gene=rrs;locus_tag=Rvnr01;product=16S ribosomal RNA
+NC_000962.3	RefSeq	exon	1471846	1473382	.	+	.	ID=exon-Rvnr01-1;Parent=rna-Rvnr01;Dbxref=GeneID:2700429;Note=rrs%2C 16s rRNA gene (alternate gene name: rrnS).;gbkey=rRNA;gene=rrs;locus_tag=Rvnr01;product=16S ribosomal RNA
+NC_000962.3	RefSeq	rRNA	1473658	1476795	.	+	.	ID=rna-Rvnr02;Parent=gene-Rvnr02;Dbxref=GeneID:2700466;Note=rrl%2C 23S rRNA gene (approximate coordinates).;gbkey=rRNA;gene=rrl;locus_tag=Rvnr02;product=23S ribosomal RNA
+NC_000962.3	RefSeq	exon	1473658	1476795	.	+	.	ID=exon-Rvnr02-1;Parent=rna-Rvnr02;Dbxref=GeneID:2700466;Note=rrl%2C 23S rRNA gene (approximate coordinates).;gbkey=rRNA;gene=rrl;locus_tag=Rvnr02;product=23S ribosomal RNA
+NC_000962.3	RefSeq	rRNA	1476899	1477013	.	+	.	ID=rna-Rvnr03;Parent=gene-Rvnr03;Dbxref=GeneID:2700459;Note=rrf%2C 5S rRNA gene. Identical to Em_ba:MT5SRR%2C D10035 M.tuberculosis 5S rRNA%2C len: 116.;gbkey=rRNA;gene=rrf;locus_tag=Rvnr03;product=5S ribosomal RNA
+NC_000962.3	RefSeq	exon	1476899	1477013	.	+	.	ID=exon-Rvnr03-1;Parent=rna-Rvnr03;Dbxref=GeneID:2700459;Note=rrf%2C 5S rRNA gene. Identical to Em_ba:MT5SRR%2C D10035 M.tuberculosis 5S rRNA%2C len: 116.;gbkey=rRNA;gene=rrf;locus_tag=Rvnr03;product=5S ribosomal RNA
+NC_000962.3	RefSeq	gene	1471846	1473382	.	+	.	ID=gene-Rvnr01;Dbxref=GeneID:2700429;Name=rrs;gbkey=Gene;gene=rrs;gene_biotype=rRNA;locus_tag=Rvnr01
+NC_000962.3	RefSeq	gene	1473658	1476795	.	+	.	ID=gene-Rvnr02;Dbxref=GeneID:2700466;Name=rrl;gbkey=Gene;gene=rrl;gene_biotype=rRNA;locus_tag=Rvnr02
+NC_000962.3	RefSeq	gene	1476899	1477013	.	+	.	ID=gene-Rvnr03;Dbxref=GeneID:2700459;Name=rrf;gbkey=Gene;gene=rrf;gene_biotype=rRNA;locus_tag=Rvnr03
