@@ -1,0 +1,1276 @@
+SRR10040304	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040320	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040331	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040318	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040255	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040301	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040290	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040297	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040282	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040330	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040327	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040283	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040343	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040261	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040273	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040135	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040257	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040333	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040280	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040305	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040350	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040300	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040337	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040265	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040276	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040345	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040341	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040328	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040312	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040332	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040351	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040267	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040272	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040319	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040314	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040258	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040342	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040299	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040277	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040316	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040335	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040338	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040326	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040264	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040284	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040336	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040352	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040259	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040298	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040317	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040346	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040310	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040306	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040262	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040281	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040292	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040278	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040334	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040254	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040307	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040347	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040263	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040309	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040291	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040295	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040344	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040311	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040279	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040271	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040323	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040339	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040285	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040315	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040302	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040340	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040349	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040269	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040313	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040268	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040325	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040287	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040288	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040329	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040256	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040322	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040303	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040260	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040286	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040321	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040275	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040324	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040270	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040266	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040293	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040294	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040308	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040274	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040348	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040289	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040296	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040405	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040394	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040400	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040395	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040449	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040413	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040410	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040451	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040407	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040369	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040371	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040383	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040425	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040444	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040389	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040408	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040387	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040415	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040364	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040436	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040378	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040421	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040429	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040452	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040426	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040423	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040385	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040377	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040381	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040403	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040372	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040356	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040411	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040393	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040442	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040439	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040388	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040419	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040390	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040391	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040380	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040441	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040354	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040386	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040363	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040420	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040438	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040379	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040375	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040368	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040412	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040430	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040418	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040431	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040447	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040366	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040353	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040365	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040382	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040359	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040448	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040370	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040443	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040401	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040414	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040362	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040384	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040424	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040437	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040406	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040376	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040434	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040409	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040404	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040355	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040433	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040450	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040422	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040357	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040427	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040397	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040360	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040417	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040373	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040399	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040392	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040398	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040367	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040396	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040432	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040446	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040428	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040374	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040440	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040358	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040445	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040416	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040435	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040527	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040486	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040477	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040487	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040506	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040505	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040493	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040480	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040524	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040511	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040520	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040517	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040544	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040469	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040504	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040531	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040474	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040458	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040478	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040481	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040521	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040518	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040525	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040535	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040536	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040547	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040539	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040491	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040543	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040495	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040476	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040498	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040488	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040503	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040550	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040523	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040510	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040501	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040533	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040526	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040549	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040508	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040473	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040455	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040532	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040471	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040534	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040134	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040507	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040537	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040470	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040500	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040489	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040545	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040461	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040459	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040530	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040460	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040472	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040466	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040538	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040496	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040463	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040454	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040509	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040136	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040467	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040540	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040528	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040515	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040497	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040548	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040514	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040482	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040519	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040513	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040464	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040522	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040453	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040484	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040529	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040542	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040516	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040468	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040490	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040457	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040462	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040546	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040483	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040512	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040499	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040502	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040485	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040475	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040479	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040465	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040541	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040492	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040456	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040494	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040221	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040183	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040165	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040181	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040199	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040224	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040214	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040230	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040201	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040200	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040161	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040198	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040155	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040177	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040218	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040194	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040149	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040184	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040150	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040185	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040189	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040142	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040166	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040163	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040176	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040156	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040175	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040192	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040140	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040186	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040157	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040152	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040195	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040235	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040190	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040229	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040232	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040173	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040204	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040206	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040159	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040148	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040167	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040172	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040151	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040141	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040219	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040225	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040227	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040228	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040196	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040220	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040231	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040216	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040215	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040137	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040153	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040138	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040212	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040234	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040197	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040180	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040139	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040202	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040233	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040217	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040211	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040169	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040187	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040188	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040174	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040208	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040164	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040203	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040162	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040222	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040143	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040168	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040178	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040193	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040160	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040182	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040147	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040210	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040207	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040223	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040213	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040236	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040209	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040144	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040158	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040170	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040154	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040146	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040179	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040145	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040226	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040171	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040191	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040205	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040253	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040241	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040246	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040250	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040239	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040240	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040249	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040237	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040238	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040251	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040252	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040247	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040245	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040244	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040243	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040242	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR10040248	Drug resistant	Jiang, Clin Infect Dis, 2019
+SRR8651557	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651558	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651559	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651560	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651561	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651562	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651563	Drug sensitive	Chen, Front Microbiol, 2019
+SRR8651554	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651555	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651648	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651649	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651650	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651651	Drug sensitive	Chen, Front Microbiol, 2019
+SRR8651644	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651645	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651646	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651647	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651642	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651643	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651653	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651652	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651572	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651573	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651570	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651571	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651576	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651577	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651574	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651575	Drug sensitive	Chen, Front Microbiol, 2019
+SRR8651567	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651568	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651591	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651590	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651589	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651588	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651587	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651586	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651585	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651584	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651583	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651582	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651594	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651595	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651596	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651597	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651598	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651599	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651600	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651601	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651592	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651593	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651607	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651609	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651608	Drug sensitive	Chen, Front Microbiol, 2019
+SRR8651603	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651602	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651605	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651611	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651610	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651618	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651616	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651617	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651614	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651615	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651612	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651613	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651620	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651621	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651569	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651566	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651565	Drug sensitive	Chen, Front Microbiol, 2019
+SRR8651564	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651580	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651579	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651578	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651581	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651636	Drug sensitive	Chen, Front Microbiol, 2019
+SRR8651637	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651638	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651639	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651632	Drug sensitive	Chen, Front Microbiol, 2019
+SRR8651556	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651633	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651634	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651635	Drug sensitive	Chen, Front Microbiol, 2019
+SRR8651640	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651641	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651627	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651626	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651625	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651624	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651631	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651630	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651629	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651628	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651623	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651622	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651655	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651654	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651657	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651656	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651659	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651658	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651661	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651660	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651663	Drug resistant	Chen, Front Microbiol, 2019
+SRR8651662	Drug resistant	Chen, Front Microbiol, 2019
+SRR671719	Drug resistant	Zhang, Nat Genet, 2013
+SRR671722	Drug resistant	Zhang, Nat Genet, 2013
+SRR671721	Drug resistant	Zhang, Nat Genet, 2013
+SRR671869	Drug resistant	Zhang, Nat Genet, 2013
+SRR671867	Drug resistant	Zhang, Nat Genet, 2013
+SRR671865	Drug resistant	Zhang, Nat Genet, 2013
+SRR671724	Drug resistant	Zhang, Nat Genet, 2013
+SRR671720	Drug resistant	Zhang, Nat Genet, 2013
+SRR671866	Drug resistant	Zhang, Nat Genet, 2013
+SRR671723	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671858	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671868	Drug resistant	Zhang, Nat Genet, 2013
+SRR671859	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671860	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671748	Drug resistant	Zhang, Nat Genet, 2013
+SRR671752	Drug resistant	Zhang, Nat Genet, 2013
+SRR671841	Drug resistant	Zhang, Nat Genet, 2013
+SRR671753	Drug resistant	Zhang, Nat Genet, 2013
+SRR671758	Drug resistant	Zhang, Nat Genet, 2013
+SRR671759	Drug resistant	Zhang, Nat Genet, 2013
+SRR671755	Drug resistant	Zhang, Nat Genet, 2013
+SRR671842	Drug resistant	Zhang, Nat Genet, 2013
+SRR671756	Drug resistant	Zhang, Nat Genet, 2013
+SRR671754	Drug resistant	Zhang, Nat Genet, 2013
+SRR671761	Drug resistant	Zhang, Nat Genet, 2013
+SRR671762	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671749	Drug resistant	Zhang, Nat Genet, 2013
+SRR671750	Drug resistant	Zhang, Nat Genet, 2013
+SRR671751	Drug resistant	Zhang, Nat Genet, 2013
+SRR671757	Drug resistant	Zhang, Nat Genet, 2013
+SRR671763	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671832	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671764	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671760	Drug resistant	Zhang, Nat Genet, 2013
+SRR671863	Drug resistant	Zhang, Nat Genet, 2013
+SRR671864	Drug resistant	Zhang, Nat Genet, 2013
+SRR671789	Drug resistant	Zhang, Nat Genet, 2013
+SRR671783	Drug resistant	Zhang, Nat Genet, 2013
+SRR671726	Drug resistant	Zhang, Nat Genet, 2013
+SRR671775	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671861	Drug resistant	Zhang, Nat Genet, 2013
+SRR671862	Drug resistant	Zhang, Nat Genet, 2013
+SRR671790	Drug resistant	Zhang, Nat Genet, 2013
+SRR671782	Drug resistant	Zhang, Nat Genet, 2013
+SRR671725	Drug resistant	Zhang, Nat Genet, 2013
+SRR671843	Drug resistant	Zhang, Nat Genet, 2013
+SRR671834	Drug resistant	Zhang, Nat Genet, 2013
+SRR671770	Drug resistant	Zhang, Nat Genet, 2013
+SRR671765	Drug resistant	Zhang, Nat Genet, 2013
+SRR671844	Drug resistant	Zhang, Nat Genet, 2013
+SRR671771	Drug resistant	Zhang, Nat Genet, 2013
+SRR671845	Drug resistant	Zhang, Nat Genet, 2013
+SRR671836	Drug resistant	Zhang, Nat Genet, 2013
+SRR671837	Drug resistant	Zhang, Nat Genet, 2013
+SRR671847	Drug resistant	Zhang, Nat Genet, 2013
+SRR671833	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671835	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671769	Drug resistant	Zhang, Nat Genet, 2013
+SRR671772	Drug resistant	Zhang, Nat Genet, 2013
+SRR671767	Drug resistant	Zhang, Nat Genet, 2013
+SRR671774	Drug resistant	Zhang, Nat Genet, 2013
+SRR671766	Drug resistant	Zhang, Nat Genet, 2013
+SRR671768	Drug resistant	Zhang, Nat Genet, 2013
+SRR671773	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671846	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671780	Drug resistant	Zhang, Nat Genet, 2013
+SRR671779	Drug resistant	Zhang, Nat Genet, 2013
+SRR671776	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671777	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671778	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671857	Drug resistant	Zhang, Nat Genet, 2013
+SRR671856	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671879	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671870	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671875	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671877	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671876	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671784	Drug resistant	Zhang, Nat Genet, 2013
+SRR671788	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671855	Drug resistant	Zhang, Nat Genet, 2013
+SRR671781	Drug resistant	Zhang, Nat Genet, 2013
+SRR671786	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671787	Drug resistant	Zhang, Nat Genet, 2013
+SRR671785	Drug resistant	Zhang, Nat Genet, 2013
+SRR671794	Drug resistant	Zhang, Nat Genet, 2013
+SRR671792	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671800	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671797	Drug resistant	Zhang, Nat Genet, 2013
+SRR671796	Drug resistant	Zhang, Nat Genet, 2013
+SRR671829	Drug resistant	Zhang, Nat Genet, 2013
+SRR671799	Drug resistant	Zhang, Nat Genet, 2013
+SRR671801	Drug resistant	Zhang, Nat Genet, 2013
+SRR671791	Drug resistant	Zhang, Nat Genet, 2013
+SRR671854	Drug resistant	Zhang, Nat Genet, 2013
+SRR671795	Drug resistant	Zhang, Nat Genet, 2013
+SRR671830	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671802	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671793	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671798	Drug resistant	Zhang, Nat Genet, 2013
+SRR671803	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671852	Drug resistant	Zhang, Nat Genet, 2013
+SRR671853	Drug resistant	Zhang, Nat Genet, 2013
+SRR671831	Drug resistant	Zhang, Nat Genet, 2013
+SRR671804	Drug resistant	Zhang, Nat Genet, 2013
+SRR671827	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671810	Drug resistant	Zhang, Nat Genet, 2013
+SRR671811	Drug resistant	Zhang, Nat Genet, 2013
+SRR671805	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671806	Drug resistant	Zhang, Nat Genet, 2013
+SRR671807	Drug resistant	Zhang, Nat Genet, 2013
+SRR671808	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671809	Drug resistant	Zhang, Nat Genet, 2013
+SRR671812	Drug resistant	Zhang, Nat Genet, 2013
+SRR671813	Drug resistant	Zhang, Nat Genet, 2013
+SRR671814	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671815	Drug resistant	Zhang, Nat Genet, 2013
+SRR671816	Drug resistant	Zhang, Nat Genet, 2013
+SRR671817	Drug resistant	Zhang, Nat Genet, 2013
+SRR671818	Drug resistant	Zhang, Nat Genet, 2013
+SRR671819	Drug resistant	Zhang, Nat Genet, 2013
+SRR671820	Drug resistant	Zhang, Nat Genet, 2013
+SRR671821	Drug resistant	Zhang, Nat Genet, 2013
+SRR671822	Drug resistant	Zhang, Nat Genet, 2013
+SRR671823	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671824	Drug resistant	Zhang, Nat Genet, 2013
+SRR671825	Drug resistant	Zhang, Nat Genet, 2013
+SRR671826	Drug resistant	Zhang, Nat Genet, 2013
+SRR671828	Drug resistant	Zhang, Nat Genet, 2013
+SRR671727	Drug resistant	Zhang, Nat Genet, 2013
+SRR671728	Drug resistant	Zhang, Nat Genet, 2013
+SRR671729	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671730	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671731	Drug resistant	Zhang, Nat Genet, 2013
+SRR671732	Drug resistant	Zhang, Nat Genet, 2013
+SRR671733	Drug resistant	Zhang, Nat Genet, 2013
+SRR671734	Drug resistant	Zhang, Nat Genet, 2013
+SRR671735	Drug resistant	Zhang, Nat Genet, 2013
+SRR671736	Drug resistant	Zhang, Nat Genet, 2013
+SRR671737	Drug resistant	Zhang, Nat Genet, 2013
+SRR671739	Drug resistant	Zhang, Nat Genet, 2013
+SRR671742	Drug resistant	Zhang, Nat Genet, 2013
+SRR671743	Drug resistant	Zhang, Nat Genet, 2013
+SRR671744	Drug resistant	Zhang, Nat Genet, 2013
+SRR671745	Drug resistant	Zhang, Nat Genet, 2013
+SRR671746	Drug resistant	Zhang, Nat Genet, 2013
+SRR671738	Drug resistant	Zhang, Nat Genet, 2013
+SRR671848	Drug resistant	Zhang, Nat Genet, 2013
+SRR671849	Drug resistant	Zhang, Nat Genet, 2013
+SRR671839	Drug resistant	Zhang, Nat Genet, 2013
+SRR671851	Drug resistant	Zhang, Nat Genet, 2013
+SRR671840	Drug resistant	Zhang, Nat Genet, 2013
+SRR671747	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671741	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671740	Drug resistant	Zhang, Nat Genet, 2013
+SRR671838	Drug resistant	Zhang, Nat Genet, 2013
+SRR671850	Drug resistant	Zhang, Nat Genet, 2013
+SRR671871	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671873	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671878	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671872	Drug sensitive	Zhang, Nat Genet, 2013
+SRR671874	Drug sensitive	Zhang, Nat Genet, 2013
+SRR1723923	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723924	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723819	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723665	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723436	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723636	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723797	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723779	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723418	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723958	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723656	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723576	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723882	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723545	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723787	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723504	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723767	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723491	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723502	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723817	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723531	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723648	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723530	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723657	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723766	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723582	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723456	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723850	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723977	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723566	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723626	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723915	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723424	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723986	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723618	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723780	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723988	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723991	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723855	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723615	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723940	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1724013	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723635	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723725	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723950	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723785	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723692	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723829	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723737	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723875	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723603	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723897	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723617	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1724006	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723612	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723613	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723889	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723992	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723871	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723790	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723863	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723514	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723791	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723629	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723756	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723670	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723715	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723896	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723724	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723741	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723433	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723727	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723432	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723565	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723736	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723720	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723901	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723943	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723876	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723972	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723774	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723880	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723921	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723893	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723527	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723438	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1724000	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723860	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723697	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723637	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723763	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723938	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723884	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723836	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723765	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723478	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723713	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723700	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723987	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723912	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723703	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723835	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723494	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723560	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723563	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723421	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723597	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723702	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723440	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723750	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723533	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723920	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723529	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723802	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723970	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1724012	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723801	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723833	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723518	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723522	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723445	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723985	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723996	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723892	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723653	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723910	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723709	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723740	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723937	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723861	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723965	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723968	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723969	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723475	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723856	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723732	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723933	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1724008	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723929	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723562	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723903	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723581	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723909	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723773	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723525	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723962	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723964	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723874	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1724015	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723509	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723978	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723953	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723477	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723999	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723704	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723979	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723796	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723501	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723960	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723830	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723858	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1724001	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723959	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723788	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723973	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723463	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723995	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723599	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723690	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723649	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723781	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723428	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723465	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723952	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723837	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723849	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723422	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723784	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723823	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723598	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723820	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723839	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723961	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723956	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723891	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723799	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723415	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723742	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723470	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723890	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723416	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723409	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723895	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723528	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723580	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723410	Drug sensitive	Hicks, Nat Microbiol, 2018
+SRR1723575	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723628	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723553	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723716	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723782	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723883	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723420	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723821	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723997	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723775	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723537	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723443	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723442	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723536	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723981	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723859	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723564	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723902	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723753	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723754	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1724014	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723967	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723951	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723519	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723726	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723614	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723975	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723887	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723974	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723941	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723825	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723666	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723800	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723511	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723532	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723818	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723824	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723521	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723926	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723466	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723990	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723427	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723963	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723879	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723852	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723650	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723966	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723517	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723954	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723898	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723894	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723913	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723939	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723643	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723499	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723490	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723587	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723458	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723623	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723634	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723546	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1724007	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723770	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723585	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723586	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723505	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723769	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723549	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723588	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723682	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723492	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723419	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723662	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723805	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723431	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723711	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723712	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723577	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723842	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723557	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723526	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723559	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723927	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723558	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723646	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723647	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723843	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723928	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723846	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723844	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723845	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723645	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723556	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723847	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723622	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723848	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723439	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723881	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723714	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723660	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723691	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723701	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723555	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723639	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723640	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723840	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723663	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723808	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723957	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723642	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723841	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723900	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723570	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723641	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723768	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723425	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723455	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723911	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723793	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723561	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723454	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723916	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723654	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723652	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723611	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723627	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723976	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723807	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723655	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723661	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723448	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723583	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723571	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723914	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723567	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723572	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723722	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723723	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723776	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723812	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723569	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723984	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723934	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723869	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723460	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723607	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723608	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723907	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723908	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723795	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723689	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723936	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723510	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723744	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723886	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1724005	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723540	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723541	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723542	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723543	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723589	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723983	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723925	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723730	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723993	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723935	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723942	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723946	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723777	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723994	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723544	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723592	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723550	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723551	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723857	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723867	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723868	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723668	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723669	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723620	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723621	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723834	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723484	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723485	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723728	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723729	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723515	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723451	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723452	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723676	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723677	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723446	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723447	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723809	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723810	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723734	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723735	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723718	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723719	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723495	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723496	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723813	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723814	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723815	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723678	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723679	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723449	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723450	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723758	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723759	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723471	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723472	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723512	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723513	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723760	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723480	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723481	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723761	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723762	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723826	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723827	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723506	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723609	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723610	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723947	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723948	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723534	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723535	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723872	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723873	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723482	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723483	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723864	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723865	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723674	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723675	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723595	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723596	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723822	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723904	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723905	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723811	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723698	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723699	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723695	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723696	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723693	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723694	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723520	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723982	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723671	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723888	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723866	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723568	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723989	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723751	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723794	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723851	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723717	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723619	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723579	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723806	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723659	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723673	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723870	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723658	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723899	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723771	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723547	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723459	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723708	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723538	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723706	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723707	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723414	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723584	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723474	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723473	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723832	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723778	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723453	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723664	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723680	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723681	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723710	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723798	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723554	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723469	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723922	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723804	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723539	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723507	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723548	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723828	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723467	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723468	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723486	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723487	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723752	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1724002	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1724003	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723738	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723786	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723917	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723918	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723604	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723605	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723631	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723747	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723748	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723749	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723944	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723945	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723919	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723854	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723853	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723772	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723998	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723757	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723437	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723877	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723885	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723705	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1724009	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723783	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723552	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723523	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723524	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723479	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1724011	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723792	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723573	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723574	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1724010	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723816	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723651	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723739	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723667	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723644	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723441	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723435	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723878	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723971	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723745	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723672	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723426	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723632	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723633	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1724004	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723932	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723593	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723764	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723464	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723789	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723731	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723803	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723955	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723906	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723476	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723755	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723590	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723930	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723931	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723462	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723601	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723721	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723457	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723638	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723430	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723461	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723423	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723600	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723838	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723980	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723444	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723630	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723746	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723488	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723489	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723411	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723429	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723594	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723498	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723591	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723624	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723493	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723683	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723688	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723625	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723684	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723685	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723687	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723686	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723862	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723412	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723413	Drug resistant	Hicks, Nat Microbiol, 2018
+SRR1723417	Drug resistant	Hicks, Nat Microbiol, 2018
