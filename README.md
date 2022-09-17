@@ -1,8 +1,8 @@
-# resR_Project
-# 2022/09/16. branch for resubmission
-# this branch will be frozen unless changes are required by reviewers/editors
+_resR_Project_
+_2022/09/16. branch for resubmission_
+_this branch will be frozen unless changes are required by reviewers/editors_
 
-Tuberculosis treatment failure associated with evolution of antibiotic resilience
+**Tuberculosis treatment failure associated with evolution of antibiotic resilience
 
 Qingyun Liu1†, Junhao Zhu1†, Charles L. Dulberger1,2, Sydney Stanley1, Sean Wilson2, Eun Seon Chung3, Xin Wang1, Peter Culviner1, Yue J. Liu1, Nathan D. Hicks1, Gregory H. Babunovic1, Samantha R. Giffen1, Bree B. Aldridge3, Ethan C. Garner2, Eric J. Rubin1, Michael C. Chao1, Sarah M. Fortune1*
 1 Department of Immunology and Infectious Diseases, Harvard T. H. Chan School of Public Health, Boston, MA 02115, USA.
