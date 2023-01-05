@@ -11,7 +11,7 @@ samtools merge $bamm $bamp $bams;
 samtools sort $bamm -o $sortbam; 
 samtools index $sortbam;
 #generate mpileup file for each sample
-samtools mpileup -q 30 -Q 20 -BOf ~/template/bwa/tb.ancestor.fasta $sortbam > $pileup; 
+samtools mpileup -q 30 -Q 20 -ABOf ~/template/bwa/tb.ancestor.fasta $sortbam > $pileup; 
 #using varscan for SNP calling
 java -jar ~/bin/VarScan.jar mpileup2snp $pileup --min-coverage 3 --min-reads2 2 --min-avg-qual 20 --min-var-freq 0.01 --min-freq-for-hom 0.9 --p-value 99e-02 --strand-filter 1 > $var; 
 java -jar ~/bin/VarScan.jar mpileup2cns $pileup --min-coverage 3 --min-avg-qual 20 --min-var-freq 0.75 --min-reads2 2 --strand-filter 1 > $cns;
