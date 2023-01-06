@@ -25,7 +25,8 @@ sed 's/:/\t/g' $cns|awk '{if (\$6 >= 3){n++;sum+=\$6}} END {print \"\t\",n/44115
 #extract unfixed SNPs from forup files, this will create two files: "markdisc" and "markkept"; the suspected false positives(such as mutations with tail region enrichment) will be moved to markdisc file
 perl ~/script/mix_extract_0.95.pl $forup > $mix;
 perl ~/script/forup_format.pl $mix > $mixfor;
-perl ~/script/redepin_filt.pl Excluded_loci_mask.list $dep $mixfor
+perl ~/script/info_mark.pl $mixfor > $mixmark;
+perl ~/script/redepin_filt.pl Excluded_loci_mask.list $dep $mixmark
 #filter list of highly repeated mutations with similar mutational frequency
 #for those unfixed mutations that arise >=5 times in the 50K isolates, further check their reliability based on 1) the ratio in "markkept"; 2) the distribution of the mutational frequency.
 cat *mixmarkkept > all_KEPT.txt; perl ~/script/loci_freq_count.pl all_KEPT.txt >kept_repeat.txt
